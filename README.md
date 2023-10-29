@@ -1,4 +1,4 @@
-# Plant-Leaf-Disease-Classfication-Using-CNN
+# Plant-Leaf-Disease-Classfication-Using-CNN, AlexNet
 
 plant village dataset location: https://www.kaggle.com/code/emmarex/plant-disease-detection-using-keras/data
 
